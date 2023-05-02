@@ -1,0 +1,3638 @@
+{
+    "status": 200,
+    "data": {
+        "product": {
+            "id": 4073675,
+            "title_fa": "شلوارک زنانه مدل 1112137032",
+            "title_en": "",
+            "url": {
+                "uri": "/product/dkp-4073675/شلوارک-زنانه-مدل-1112137032"
+            },
+            "status": "marketable",
+            "has_quick_view": false,
+            "digiplus": {
+                "services": [
+                    "ارسال رایگان",
+                    "امکان ارسال فوری (شهر تهران)"
+                ],
+                "is_jet_eligible": true,
+                "cash_back": 0,
+                "is_general_location_jet_eligible": false
+            },
+            "data_layer": {
+                "brand": "متفرقه",
+                "category": "[RW,لباس راحتی و خواب زنانه]",
+                "metric6": 47,
+                "dimension2": 45,
+                "dimension6": 0,
+                "dimension7": "incredible",
+                "dimension9": 4,
+                "dimension11": 0,
+                "dimension20": "marketable"
+            },
+            "images": {
+                "main": {
+                    "url": [
+                        "https://dkstatics-public.digikala.com/digikala-products/04c65512e2fb3e76d3189b7739e861b05ac85040_1608811812.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+                    ]
+                },
+                "list": [{
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/5bc70c40ace9180f70186e8d2209d3bdc3915654_1608811846.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+                        ]
+                    },
+                    {
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/b8194a46ccf73819c83fdc71950d3c1b7cbc784b_1608811900.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+                        ]
+                    },
+                    {
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/7d8ceb57e1ca8411532cea5c131919789926cefe_1608811910.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+                        ]
+                    }
+                ]
+            },
+            "rating": {
+                "rate": 80,
+                "count": 47
+            },
+            "default_variant": {
+                "id": 17888503,
+                "lead_time": 0,
+                "rank": 99.92,
+                "rate": 92,
+                "statistics": {
+                    "totally_satisfied": {
+                        "rate_count": 3,
+                        "rate": 60
+                    },
+                    "satisfied": {
+                        "rate_count": 2,
+                        "rate": 40
+                    },
+                    "neutral": {
+                        "rate_count": 0,
+                        "rate": 0
+                    },
+                    "dissatisfied": {
+                        "rate_count": 0,
+                        "rate": 0
+                    },
+                    "totally_dissatisfied": {
+                        "rate_count": 0,
+                        "rate": 0
+                    },
+                    "total_count": 5,
+                    "total_rate": 92
+                },
+                "status": "marketable",
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "has_similar_variants": false,
+                    "in_digikala_warehouse": true
+                },
+                "digiplus": {
+                    "services": [
+                        "ارسال رایگان",
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false
+                },
+                "size": {
+                    "id": 5476,
+                    "title": "فری سایز (40-44)"
+                },
+                "warranty": {
+                    "id": 272,
+                    "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                    "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                },
+                "seller": {
+                    "id": 111213,
+                    "title": "سام خرید ",
+                    "code": "A9FU4",
+                    "url": "https://www.digikala.com/seller/A9FU4/",
+                    "rating": {
+                        "total_rate": 78,
+                        "total_count": 6601,
+                        "commitment": 100,
+                        "no_return": 99.7,
+                        "on_time_shipping": 100
+                    },
+                    "properties": {
+                        "is_trusted": false,
+                        "is_official": false,
+                        "is_roosta": false,
+                        "is_new": false
+                    },
+                    "stars": 4.7,
+                    "registration_date": "3 سال و 3 ماه"
+                },
+                "digiclub": {
+                    "point": 14
+                },
+                "price": {
+                    "selling_price": 1347500,
+                    "rrp_price": 2450000,
+                    "order_limit": 5,
+                    "is_incredible": true,
+                    "is_promotion": false,
+                    "is_locked_for_digiplus": false,
+                    "discount_percent": 45,
+                    "timer": 49161,
+                    "badge": {
+                        "title": "پیشنهاد شگفت انگیز",
+                        "color": "#E6123D"
+                    },
+                    "is_digiplus_promotion": false,
+                    "is_digiplus_early_access": false,
+                    "is_application_incredible": false,
+                    "is_lightening_deal": false
+                },
+                "shipment_methods": {
+                    "description": "موجود در انبار دیجی‌کالا",
+                    "has_lead_time": true,
+                    "providers": [{
+                        "title": "ارسال دیجی‌کالا",
+                        "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                        "has_lead_time": false,
+                        "type": "digikala"
+                    }]
+                }
+            },
+            "properties": {
+                "is_fast_shipping": false,
+                "is_ship_by_seller": false,
+                "is_multi_warehouse": false,
+                "is_fake": false,
+                "has_gift": false,
+                "min_price_in_last_month": 1347500,
+                "is_non_inventory": false,
+                "is_ad": false,
+                "is_jet_eligible": false,
+                "is_medical_supplement": false,
+                "has_printed_price": false
+            },
+            "category": {
+                "id": 9299,
+                "title_fa": "شلوار و شلوارک راحتی زنانه",
+                "title_en": "WOMEN Homewear Bottom",
+                "code": "women-homewear-bottom"
+            },
+            "brand": {
+                "id": 719,
+                "code": "miscellaneous",
+                "title_fa": "متفرقه",
+                "title_en": "Miscellaneous",
+                "url": {
+                    "uri": "/brand/miscellaneous/"
+                },
+                "visibility": false,
+                "logo": {
+                    "url": [
+                        "https://dkstatics-public.digikala.com/digikala-brands/d37a7e939b804659cfc1e6d88092a1b8ea8132d4_1603699076.png?x-oss-process=image/resize,m_lfit,h_120,w_120/quality,q_80"
+                    ]
+                },
+                "is_premium": false,
+                "is_miscellaneous": true,
+                "is_name_similar": false
+            },
+            "review": {
+                "description": "استفاده از شلوارک در منزل  یا در باشگاه امری رایج شده است شلوارک‌های زیاد با تنوع‌های متعدد در بازار موجود است. یکی از پارامترهای مهم برای انتخاب شلوارک جنس شلوارک است. شلوارک زنانه کد 1112137032 تهیه شده از الیاف 100 درصد طبیعی ««نخ»» می بوده که وجود الیاف نخ به راحتی جریان هوا رو از خود عبور می‌دهد و از تعریق زیاد جلوگیری می‌کند و پس از استفاده بو نمی‌گیرید. نکته دوم در انتخاب شلوارک، دوخت شلوارک بوده که شلوارک زنانه کد 1112137032 دارای دوختی منظم و با کیفیت است.\r\n",
+                "attributes": [{
+                        "title": "طرح",
+                        "values": [
+                            "طرح‌دار"
+                        ]
+                    },
+                    {
+                        "title": "قد لباس",
+                        "values": [
+                            "تا مچ پا"
+                        ]
+                    },
+                    {
+                        "title": "نوع فاق",
+                        "values": [
+                            "متوسط"
+                        ]
+                    },
+                    {
+                        "title": "استایل لباس",
+                        "values": [
+                            "آزاد"
+                        ]
+                    }
+                ]
+            },
+            "pros_and_cons": [],
+            "suggestion": {
+                "count": 20,
+                "percentage": 74
+            },
+            "variants": [{
+                    "id": 13037335,
+                    "lead_time": 0,
+                    "rank": 99.4,
+                    "rate": 40,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "satisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 1,
+                            "rate": 100
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 1,
+                        "total_rate": 40
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "ارسال رایگان",
+                            "امکان ارسال فوری (شهر تهران)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false
+                    },
+                    "size": {
+                        "id": 35210,
+                        "title": "فری سایز (32-36)"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "seller": {
+                        "id": 111213,
+                        "title": "سام خرید ",
+                        "code": "A9FU4",
+                        "url": "https://www.digikala.com/seller/A9FU4/",
+                        "rating": {
+                            "total_rate": 78,
+                            "total_count": 6601,
+                            "commitment": 100,
+                            "no_return": 99.7,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.7,
+                        "registration_date": "3 سال و 3 ماه"
+                    },
+                    "digiclub": {
+                        "point": 14
+                    },
+                    "price": {
+                        "selling_price": 1347500,
+                        "rrp_price": 2450000,
+                        "order_limit": 5,
+                        "is_incredible": true,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "discount_percent": 45,
+                        "timer": 49161,
+                        "badge": {
+                            "title": "پیشنهاد شگفت انگیز",
+                            "color": "#E6123D"
+                        },
+                        "is_digiplus_promotion": false,
+                        "is_digiplus_early_access": false,
+                        "is_application_incredible": false,
+                        "is_lightening_deal": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [{
+                            "title": "ارسال دیجی‌کالا",
+                            "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                            "has_lead_time": false,
+                            "type": "digikala"
+                        }]
+                    }
+                },
+                {
+                    "id": 13037336,
+                    "lead_time": 0,
+                    "rank": 99.84,
+                    "rate": 84.4,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 4,
+                            "rate": 44.44
+                        },
+                        "satisfied": {
+                            "rate_count": 3,
+                            "rate": 33.33
+                        },
+                        "neutral": {
+                            "rate_count": 2,
+                            "rate": 22.22
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 9,
+                        "total_rate": 84.4
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "ارسال رایگان",
+                            "امکان ارسال فوری (شهر تهران)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false
+                    },
+                    "size": {
+                        "id": 32110,
+                        "title": "فری سایز (36-40)"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "seller": {
+                        "id": 111213,
+                        "title": "سام خرید ",
+                        "code": "A9FU4",
+                        "url": "https://www.digikala.com/seller/A9FU4/",
+                        "rating": {
+                            "total_rate": 78,
+                            "total_count": 6601,
+                            "commitment": 100,
+                            "no_return": 99.7,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.7,
+                        "registration_date": "3 سال و 3 ماه"
+                    },
+                    "digiclub": {
+                        "point": 14
+                    },
+                    "price": {
+                        "selling_price": 1347500,
+                        "rrp_price": 2450000,
+                        "order_limit": 5,
+                        "is_incredible": true,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "discount_percent": 45,
+                        "timer": 49161,
+                        "badge": {
+                            "title": "پیشنهاد شگفت انگیز",
+                            "color": "#E6123D"
+                        },
+                        "is_digiplus_promotion": false,
+                        "is_digiplus_early_access": false,
+                        "is_application_incredible": false,
+                        "is_lightening_deal": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [{
+                            "title": "ارسال دیجی‌کالا",
+                            "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                            "has_lead_time": false,
+                            "type": "digikala"
+                        }]
+                    }
+                },
+                {
+                    "id": 17888503,
+                    "lead_time": 0,
+                    "rank": 99.92,
+                    "rate": 92,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 3,
+                            "rate": 60
+                        },
+                        "satisfied": {
+                            "rate_count": 2,
+                            "rate": 40
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 5,
+                        "total_rate": 92
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "ارسال رایگان",
+                            "امکان ارسال فوری (شهر تهران)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false
+                    },
+                    "size": {
+                        "id": 5476,
+                        "title": "فری سایز (40-44)"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "seller": {
+                        "id": 111213,
+                        "title": "سام خرید ",
+                        "code": "A9FU4",
+                        "url": "https://www.digikala.com/seller/A9FU4/",
+                        "rating": {
+                            "total_rate": 78,
+                            "total_count": 6601,
+                            "commitment": 100,
+                            "no_return": 99.7,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.7,
+                        "registration_date": "3 سال و 3 ماه"
+                    },
+                    "digiclub": {
+                        "point": 14
+                    },
+                    "price": {
+                        "selling_price": 1347500,
+                        "rrp_price": 2450000,
+                        "order_limit": 5,
+                        "is_incredible": true,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "discount_percent": 45,
+                        "timer": 49161,
+                        "badge": {
+                            "title": "پیشنهاد شگفت انگیز",
+                            "color": "#E6123D"
+                        },
+                        "is_digiplus_promotion": false,
+                        "is_digiplus_early_access": false,
+                        "is_application_incredible": false,
+                        "is_lightening_deal": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [{
+                            "title": "ارسال دیجی‌کالا",
+                            "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                            "has_lead_time": false,
+                            "type": "digikala"
+                        }]
+                    }
+                },
+                {
+                    "id": 17888504,
+                    "lead_time": 0,
+                    "rank": 99.85,
+                    "rate": 85,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 3,
+                            "rate": 37.5
+                        },
+                        "satisfied": {
+                            "rate_count": 4,
+                            "rate": 50
+                        },
+                        "neutral": {
+                            "rate_count": 1,
+                            "rate": 12.5
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 8,
+                        "total_rate": 85
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "ارسال رایگان",
+                            "امکان ارسال فوری (شهر تهران)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false
+                    },
+                    "size": {
+                        "id": 34189,
+                        "title": "فری سایز (44-50)"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "seller": {
+                        "id": 111213,
+                        "title": "سام خرید ",
+                        "code": "A9FU4",
+                        "url": "https://www.digikala.com/seller/A9FU4/",
+                        "rating": {
+                            "total_rate": 78,
+                            "total_count": 6601,
+                            "commitment": 100,
+                            "no_return": 99.7,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.7,
+                        "registration_date": "3 سال و 3 ماه"
+                    },
+                    "digiclub": {
+                        "point": 14
+                    },
+                    "price": {
+                        "selling_price": 1347500,
+                        "rrp_price": 2450000,
+                        "order_limit": 5,
+                        "is_incredible": true,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "discount_percent": 45,
+                        "timer": 49161,
+                        "badge": {
+                            "title": "پیشنهاد شگفت انگیز",
+                            "color": "#E6123D"
+                        },
+                        "is_digiplus_promotion": false,
+                        "is_digiplus_early_access": false,
+                        "is_application_incredible": false,
+                        "is_lightening_deal": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [{
+                            "title": "ارسال دیجی‌کالا",
+                            "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                            "has_lead_time": false,
+                            "type": "digikala"
+                        }]
+                    }
+                }
+            ],
+            "concurrent_viewers": 0,
+            "questions_count": 0,
+            "comments_count": 36,
+            "breadcrumb": [{
+                    "title": "دیجی‌کالا",
+                    "url": {
+                        "uri": "/"
+                    }
+                },
+                {
+                    "title": "مد و پوشاک",
+                    "url": {
+                        "uri": "/main/apparel/"
+                    }
+                },
+                {
+                    "title": "زنانه",
+                    "url": {
+                        "uri": "/search/category-womens-apparel/"
+                    }
+                },
+                {
+                    "title": "لباس زنانه",
+                    "url": {
+                        "uri": "/search/category-women-clothing/"
+                    }
+                },
+                {
+                    "title": "لباس خواب و راحتی زنانه",
+                    "url": {
+                        "uri": "/search/category-women-homewear/"
+                    }
+                },
+                {
+                    "title": "شلوار و شلوارک راحتی زنانه",
+                    "url": {
+                        "uri": "/search/category-women-homewear-bottom/"
+                    }
+                },
+                {
+                    "title": "شلوارک زنانه مدل 1112137032",
+                    "url": {
+                        "uri": "/product/dkp-4073675/%D8%B4%D9%84%D9%88%D8%A7%D8%B1%DA%A9-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-1112137032"
+                    }
+                }
+            ],
+            "specifications": [{
+                "title": "مشخصات",
+                "attributes": [{
+                        "title": "جنس",
+                        "values": [
+                            "نخ "
+                        ]
+                    },
+                    {
+                        "title": "طرح",
+                        "values": [
+                            "طرح‌دار "
+                        ]
+                    },
+                    {
+                        "title": "قد لباس",
+                        "values": [
+                            "تا مچ پا "
+                        ]
+                    },
+                    {
+                        "title": "نوع فاق",
+                        "values": [
+                            "متوسط "
+                        ]
+                    },
+                    {
+                        "title": "استایل لباس",
+                        "values": [
+                            "آزاد "
+                        ]
+                    }
+                ]
+            }],
+            "expert_reviews": {
+                "description": "استفاده از شلوارک در منزل  یا در باشگاه امری رایج شده است شلوارک‌های زیاد با تنوع‌های متعدد در بازار موجود است. یکی از پارامترهای مهم برای انتخاب شلوارک جنس شلوارک است. شلوارک زنانه کد 1112137032 تهیه شده از الیاف 100 درصد طبیعی ««نخ»» می بوده که وجود الیاف نخ به راحتی جریان هوا رو از خود عبور می‌دهد و از تعریق زیاد جلوگیری می‌کند و پس از استفاده بو نمی‌گیرید. نکته دوم در انتخاب شلوارک، دوخت شلوارک بوده که شلوارک زنانه کد 1112137032 دارای دوختی منظم و با کیفیت است.\r\n",
+                "short_review": "",
+                "technical_properties": []
+            },
+            "last_comments": [{
+                    "id": 20975033,
+                    "title": "شلوارک جذب",
+                    "body": "شلوارک لخت، کشی و فرم آن کاملا جذب است. مواد ب کار رفته بیشتر نخی است. رنگ و‌لعاب مثل عکسش هست. برای من که سایزم ۳۶-۳۸ هست کامل جذبه و با اینکه فری سایزه فک کنم برای سایز ۴۰ کمرش یکم تنگ و ناراحت باشه. البته داخل شلوارک زده سایز لارج!  عکس ارسالی هم بعد از یکبار شستشو با مایع لباس و اب ۳۰درجه است.",
+                    "created_at": "29 اردیبهشت 1400",
+                    "rate": 3.25,
+                    "reactions": {
+                        "likes": 15,
+                        "dislikes": 0
+                    },
+                    "recommendation_status": "no_idea",
+                    "is_buyer": true,
+                    "user_name": "مریم اصفهانی",
+                    "is_anonymous": false
+                },
+                {
+                    "id": 17615477,
+                    "title": "شلوارک با کیفیت",
+                    "body": "خیلی از طرحش خوشم اومد رسید دستم بابت جنسشم خیلی راضیم کاملا نخه خیلی راحتم هست ممنون از دیجی",
+                    "created_at": "5 اسفند 1399",
+                    "rate": 5,
+                    "reactions": {
+                        "likes": 8,
+                        "dislikes": 0
+                    },
+                    "recommendation_status": "recommended",
+                    "is_buyer": true,
+                    "user_name": "کاربر دیجی‌کالا",
+                    "is_anonymous": true,
+                    "advantages": [
+                        "طرح زیبا\r",
+                        "دوخت منظم \r",
+                        "نخ 100%"
+                    ]
+                },
+                {
+                    "id": 23207872,
+                    "body": "خییلی نرم و لطیف هست ولی انگار پلاستیکه و خییلی چسبان است",
+                    "created_at": "30 تیر 1400",
+                    "rate": 3,
+                    "reactions": {
+                        "likes": 6,
+                        "dislikes": 0
+                    },
+                    "recommendation_status": "no_idea",
+                    "is_buyer": true,
+                    "user_name": "کاربر دیجی‌کالا",
+                    "is_anonymous": true
+                }
+            ]
+        },
+        "recommendations": {
+            "also_bought_products": {
+                "title": "در کنارش خریداری شده",
+                "products": [{
+                        "id": 3561632,
+                        "title_fa": "شلوار زنانه مدل 1112137016",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3561632/شلوار-زنانه-مدل-1112137016"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 7,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 4.4,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/6d61fac912df2aae207a2b0e0580de16a9ceeebc_1602764983.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 11514779,
+                            "lead_time": 1,
+                            "rank": 95,
+                            "rate": 100,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 100
+                                },
+                                "satisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "neutral": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 1,
+                                "total_rate": 100
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 34321,
+                                "title": "فری سایز (38-44)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6595,
+                                    "commitment": 100,
+                                    "no_return": 99.5,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 15
+                            },
+                            "price": {
+                                "selling_price": 1490000,
+                                "rrp_price": 1490000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3561794,
+                        "title_fa": "شلوارک زنانه مدل 1112137020",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3561794/شلوارک-زنانه-مدل-1112137020"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 47,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.8,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/112de36648f052c4e176b24743e34f2856476e25_1602766793.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 11514694,
+                            "lead_time": 1,
+                            "rank": 99.69,
+                            "rate": 68.8,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 3,
+                                    "rate": 33.33
+                                },
+                                "satisfied": {
+                                    "rate_count": 2,
+                                    "rate": 22.22
+                                },
+                                "neutral": {
+                                    "rate_count": 1,
+                                    "rate": 11.11
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 22.22
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 1,
+                                    "rate": 11.11
+                                },
+                                "total_count": 9,
+                                "total_rate": 68.8
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 32128,
+                                "title": "فری سایز (36-42)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6597,
+                                    "commitment": 100,
+                                    "no_return": 99.4,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 7
+                            },
+                            "price": {
+                                "selling_price": 690000,
+                                "rrp_price": 690000,
+                                "order_limit": 5,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3832764,
+                        "title_fa": "شلوارک زنانه مدل 1112137031",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3832764/شلوارک-زنانه-مدل-1112137031"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 19,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.6,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/06a29ab886cb84887b40ec1599fbfe0ecaec681e_1606123168.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 12268397,
+                            "lead_time": 1,
+                            "rank": 99.4,
+                            "rate": 40,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "satisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "neutral": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 100
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 2,
+                                "total_rate": 40
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 32110,
+                                "title": "فری سایز (36-40)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6597,
+                                    "commitment": 100,
+                                    "no_return": 99.4,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 12
+                            },
+                            "price": {
+                                "selling_price": 1190000,
+                                "rrp_price": 1190000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 1019090,
+                        "title_fa": "تیشرت آستین بلند مردانه طرح اسکلت کد LB123 رنگ مشکی",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-1019090/تیشرت-آستین-بلند-مردانه-طرح-اسکلت-کد-lb123-رنگ-مشکی"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان",
+                                "امکان ارسال فوری (شهر تهران)"
+                            ],
+                            "is_jet_eligible": true,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,تی شرت و پولو شرت مردانه]",
+                            "metric6": 793,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.6,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/116882656.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 25030080,
+                            "lead_time": 0,
+                            "rank": 99.44,
+                            "rate": 67,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 6,
+                                    "rate": 26.09
+                                },
+                                "satisfied": {
+                                    "rate_count": 8,
+                                    "rate": 34.78
+                                },
+                                "neutral": {
+                                    "rate_count": 2,
+                                    "rate": 8.7
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 8.7
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 5,
+                                    "rate": 21.74
+                                },
+                                "total_count": 23,
+                                "total_rate": 67
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": true
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان",
+                                    "امکان ارسال فوری (شهر تهران)"
+                                ],
+                                "is_jet_eligible": true,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 66,
+                                "title": "L"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 148109,
+                                "title": "اسدشاپ",
+                                "code": "AGSR3",
+                                "url": "https://www.digikala.com/seller/AGSR3/",
+                                "rating": {
+                                    "total_rate": 70,
+                                    "total_count": 17599,
+                                    "commitment": 100,
+                                    "no_return": 98.6,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 3.5,
+                                "registration_date": "2 سال و 11 ماه"
+                            },
+                            "digiclub": {
+                                "point": 4
+                            },
+                            "price": {
+                                "selling_price": 399000,
+                                "rrp_price": 399000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا",
+                                    "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": false,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    }
+                ]
+            },
+            "related_products": {
+                "title": "کالاهای مشابه",
+                "products": [{
+                        "id": 3832286,
+                        "title_fa": "شلوارک زنانه مدل 1112137027",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3832286/شلوارک-زنانه-مدل-1112137027"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 172,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.7,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/b94e90a2973bc2563ad7d1b76823cc3526c5551c_1606120701.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 12376598,
+                            "lead_time": 1,
+                            "rank": 99.75,
+                            "rate": 74.8,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 9,
+                                    "rate": 29.03
+                                },
+                                "satisfied": {
+                                    "rate_count": 12,
+                                    "rate": 38.71
+                                },
+                                "neutral": {
+                                    "rate_count": 4,
+                                    "rate": 12.9
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 5,
+                                    "rate": 16.13
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 1,
+                                    "rate": 3.23
+                                },
+                                "total_count": 31,
+                                "total_rate": 74.8
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 2704,
+                                "title": "فری سایز (42-44)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6595,
+                                    "commitment": 100,
+                                    "no_return": 99.5,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 13
+                            },
+                            "price": {
+                                "selling_price": 1250000,
+                                "rrp_price": 1250000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3264420,
+                        "title_fa": "شلوارک زنانه مدل 1112136070",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3264420/شلوارک-زنانه-مدل-1112136070"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان",
+                                "امکان ارسال فوری (شهر تهران)"
+                            ],
+                            "is_jet_eligible": true,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 142,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.6,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/a1d7b6fbd8fcd647c0a0ce8883a449ef0a02201f_1597820902.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 14634687,
+                            "lead_time": 0,
+                            "rank": 99.8,
+                            "rate": 80,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 25
+                                },
+                                "satisfied": {
+                                    "rate_count": 2,
+                                    "rate": 50
+                                },
+                                "neutral": {
+                                    "rate_count": 1,
+                                    "rate": 25
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 4,
+                                "total_rate": 80
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": true
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان",
+                                    "امکان ارسال فوری (شهر تهران)"
+                                ],
+                                "is_jet_eligible": true,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 11314,
+                                "title": "فری سایز (34-36)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6595,
+                                    "commitment": 100,
+                                    "no_return": 99.5,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 13
+                            },
+                            "price": {
+                                "selling_price": 1300000,
+                                "rrp_price": 1300000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا",
+                                    "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": false,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3264449,
+                        "title_fa": "شلوارک زنانه مدل 1112136066",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3264449/شلوارک-زنانه-مدل-1112136066"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 83,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.7,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/4995ab0c9770e85f077174eaaee707456bdd54c0_1597821093.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 12508843,
+                            "lead_time": 1,
+                            "rank": 99.73,
+                            "rate": 73.4,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 5,
+                                    "rate": 20.83
+                                },
+                                "satisfied": {
+                                    "rate_count": 12,
+                                    "rate": 50
+                                },
+                                "neutral": {
+                                    "rate_count": 3,
+                                    "rate": 12.5
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 8.33
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 8.33
+                                },
+                                "total_count": 24,
+                                "total_rate": 73.4
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 36517,
+                                "title": "فری سایز (44-48)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6595,
+                                    "commitment": 100,
+                                    "no_return": 99.5,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 10
+                            },
+                            "price": {
+                                "selling_price": 990000,
+                                "rrp_price": 990000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "marketable_stock": 2,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3000680,
+                        "title_fa": "شلوارک زنانه مدل 1112138585213",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3000680/شلوارک-زنانه-مدل-1112138585213"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 57,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.3,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/1eb683c665f1f9c585ea2f0cdb8b83d87f9b2760_1593950802.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 29303345,
+                            "lead_time": 1,
+                            "rank": 97.24,
+                            "rate": 0,
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 3268,
+                                "title": "4XL"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 394733,
+                                "title": "تامین کالای آوا",
+                                "code": "CGZP9",
+                                "url": "https://www.digikala.com/seller/CGZP9/",
+                                "rating": {
+                                    "total_rate": 74,
+                                    "total_count": 1918,
+                                    "commitment": 100,
+                                    "no_return": 98.8,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 3.5,
+                                "registration_date": "1 سال و 9 ماه"
+                            },
+                            "digiclub": {
+                                "point": 6
+                            },
+                            "price": {
+                                "selling_price": 557100,
+                                "rrp_price": 557100,
+                                "order_limit": 1,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "marketable_stock": 3,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3448382,
+                        "title_fa": "شلوارک زنانه مدل 1112137008",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3448382/شلوارک-زنانه-مدل-1112137008"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان",
+                                "امکان ارسال فوری (شهر تهران)"
+                            ],
+                            "is_jet_eligible": true,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 87,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.2,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/db73ebf7ce1e68d02fab934c2bc5d6d1be02e629_1600928895.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 11143702,
+                            "lead_time": 0,
+                            "rank": 99.6,
+                            "rate": 60,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 50
+                                },
+                                "neutral": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 1,
+                                    "rate": 50
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 2,
+                                "total_rate": 60
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": true
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان",
+                                    "امکان ارسال فوری (شهر تهران)"
+                                ],
+                                "is_jet_eligible": true,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 67,
+                                "title": "XL"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6597,
+                                    "commitment": 100,
+                                    "no_return": 99.5,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 10
+                            },
+                            "price": {
+                                "selling_price": 990000,
+                                "rrp_price": 990000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا",
+                                    "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": false,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3561794,
+                        "title_fa": "شلوارک زنانه مدل 1112137020",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3561794/شلوارک-زنانه-مدل-1112137020"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 47,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.8,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/112de36648f052c4e176b24743e34f2856476e25_1602766793.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 11514694,
+                            "lead_time": 1,
+                            "rank": 99.69,
+                            "rate": 68.8,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 3,
+                                    "rate": 33.33
+                                },
+                                "satisfied": {
+                                    "rate_count": 2,
+                                    "rate": 22.22
+                                },
+                                "neutral": {
+                                    "rate_count": 1,
+                                    "rate": 11.11
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 22.22
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 1,
+                                    "rate": 11.11
+                                },
+                                "total_count": 9,
+                                "total_rate": 68.8
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 32128,
+                                "title": "فری سایز (36-42)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6597,
+                                    "commitment": 100,
+                                    "no_return": 99.4,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 7
+                            },
+                            "price": {
+                                "selling_price": 690000,
+                                "rrp_price": 690000,
+                                "order_limit": 5,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 4450388,
+                        "title_fa": "شلوارک زنانه مدل 1112137065",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-4450388/شلوارک-زنانه-مدل-1112137065"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان",
+                                "امکان ارسال فوری (شهر تهران)"
+                            ],
+                            "is_jet_eligible": true,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 12,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.6,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/8af0fbe46533e05305316e83e15a4fa049d5d8bc_1613204509.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 22762825,
+                            "lead_time": 0,
+                            "rank": 99.78,
+                            "rate": 0,
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": true
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان",
+                                    "امکان ارسال فوری (شهر تهران)"
+                                ],
+                                "is_jet_eligible": true,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 2707,
+                                "title": "فری سایز (48-50)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6597,
+                                    "commitment": 100,
+                                    "no_return": 99.4,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 18
+                            },
+                            "price": {
+                                "selling_price": 1750000,
+                                "rrp_price": 1750000,
+                                "order_limit": 1,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا",
+                                    "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": false,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 4450352,
+                        "title_fa": "شلوارک زنانه مدل 1112137064",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-4450352/شلوارک-زنانه-مدل-1112137064"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان",
+                                "امکان ارسال فوری (شهر تهران)"
+                            ],
+                            "is_jet_eligible": true,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 51,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.8,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/6f071bfc083a1161981b57084f4729d1e01e0f48_1613204348.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 19548587,
+                            "lead_time": 0,
+                            "rank": 99.8,
+                            "rate": 80,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 33.33
+                                },
+                                "satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 33.33
+                                },
+                                "neutral": {
+                                    "rate_count": 1,
+                                    "rate": 33.33
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 3,
+                                "total_rate": 80
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": true
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان",
+                                    "امکان ارسال فوری (شهر تهران)"
+                                ],
+                                "is_jet_eligible": true,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 2707,
+                                "title": "فری سایز (48-50)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6601,
+                                    "commitment": 100,
+                                    "no_return": 99.7,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.7,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 18
+                            },
+                            "price": {
+                                "selling_price": 1750000,
+                                "rrp_price": 1750000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا",
+                                    "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": false,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 4450240,
+                        "title_fa": "شلوارک زنانه مدل 1112137061",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-4450240/شلوارک-زنانه-مدل-1112137061"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 22,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.9,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/c3f9dec4a9db76c6b620321117466e37d697c02b_1613203460.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 20167061,
+                            "lead_time": 1,
+                            "rank": 99.9,
+                            "rate": 90,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 50
+                                },
+                                "satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 50
+                                },
+                                "neutral": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 2,
+                                "total_rate": 90
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 2707,
+                                "title": "فری سایز (48-50)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 111213,
+                                "title": "سام خرید ",
+                                "code": "A9FU4",
+                                "url": "https://www.digikala.com/seller/A9FU4/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 6600,
+                                    "commitment": 100,
+                                    "no_return": 99.4,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.4,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 18
+                            },
+                            "price": {
+                                "selling_price": 1750000,
+                                "rrp_price": 1750000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 4088990,
+                        "title_fa": "شلوارک زنانه اسمارا مدل WSH12",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-4088990/شلوارک-زنانه-اسمارا-مدل-wsh12"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "اسمارا",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 10,
+                            "dimension2": 6,
+                            "dimension6": 0,
+                            "dimension7": "special-offer",
+                            "dimension9": 3.1,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/802ade89396528c3960e64ad96abc161bc292915_1608986316.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 17297701,
+                            "lead_time": 1,
+                            "rank": 99.73,
+                            "rate": 73.4,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "satisfied": {
+                                    "rate_count": 2,
+                                    "rate": 66.67
+                                },
+                                "neutral": {
+                                    "rate_count": 1,
+                                    "rate": 33.33
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 3,
+                                "total_rate": 73.4
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 4495,
+                                "title": "3XL"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 376157,
+                                "title": "مدینو استایل",
+                                "code": "CEP32",
+                                "url": "https://www.digikala.com/seller/CEP32/",
+                                "rating": {
+                                    "total_rate": 79,
+                                    "total_count": 387,
+                                    "commitment": 100,
+                                    "no_return": 96.9,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 3.5,
+                                "registration_date": "1 سال و 10 ماه"
+                            },
+                            "digiclub": {
+                                "point": 10
+                            },
+                            "price": {
+                                "selling_price": 990000,
+                                "rrp_price": 1050000,
+                                "order_limit": 17,
+                                "is_incredible": false,
+                                "is_promotion": true,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 6,
+                                "badge": {
+                                    "title": "فروش ویژه",
+                                    "color": "#E6123D"
+                                },
+                                "is_digiplus_promotion": false,
+                                "is_digiplus_early_access": false,
+                                "is_application_incredible": false,
+                                "is_lightening_deal": false
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3181183,
+                        "title_fa": "شلوارک زنانه آنکل سم مدل FS95125",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3181183/شلوارک-زنانه-آنکل-سم-مدل-fs95125"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "آنکل سم",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 4,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.7,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/fcb75b7d0db160e90ca749623f53f43e61e72d96_1596376958.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 28793899,
+                            "lead_time": 1,
+                            "rank": 99.75,
+                            "rate": 0,
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 2705,
+                                "title": "فری سایز (44-46)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 919745,
+                                "title": "کرلند",
+                                "code": "E6JSJ",
+                                "url": "https://www.digikala.com/seller/E6JSJ/",
+                                "rating": {
+                                    "total_rate": 90,
+                                    "total_count": 2,
+                                    "commitment": 100,
+                                    "no_return": 100,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 5,
+                                "registration_date": "1 ماه و 1 هفته"
+                            },
+                            "digiclub": {
+                                "point": 7
+                            },
+                            "price": {
+                                "selling_price": 610000,
+                                "rrp_price": 610000,
+                                "order_limit": 1,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "marketable_stock": 3,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 3352476,
+                        "title_fa": "شلوارک زنانه اسمارا مدل 311as",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-3352476/شلوارک-زنانه-اسمارا-مدل-311as"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان",
+                                "امکان ارسال فوری (شهر تهران)"
+                            ],
+                            "is_jet_eligible": true,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "اسمارا",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 38,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.7,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/5df35aee32200f9513e9419d53a52f7efcd033f1_1600003254.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 25848116,
+                            "lead_time": 0,
+                            "rank": 99.4,
+                            "rate": 40,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "satisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "neutral": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 1,
+                                    "rate": 100
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 1,
+                                "total_rate": 40
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": true
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان",
+                                    "امکان ارسال فوری (شهر تهران)"
+                                ],
+                                "is_jet_eligible": true,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 4495,
+                                "title": "3XL"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 868163,
+                                "title": "فقط برند",
+                                "code": "DZ5ST",
+                                "url": "https://www.digikala.com/seller/DZ5ST/",
+                                "rating": {
+                                    "total_rate": 69,
+                                    "total_count": 28,
+                                    "commitment": 100,
+                                    "no_return": 98.5,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 3.5,
+                                "registration_date": "3 ماه و 3 هفته"
+                            },
+                            "digiclub": {
+                                "point": 8
+                            },
+                            "price": {
+                                "selling_price": 790000,
+                                "rrp_price": 790000,
+                                "order_limit": 1,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "marketable_stock": 1,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا",
+                                    "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": false,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 4411712,
+                        "title_fa": "شلوارک زنانه اسمارا مدل 332572",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-4411712/شلوارک-زنانه-اسمارا-مدل-332572"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "اسمارا",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 5,
+                            "dimension2": 5,
+                            "dimension6": 0,
+                            "dimension7": "special-offer",
+                            "dimension9": 4.4,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/1caa70b1e95f963a86cfd8d1caca71910f142aa5_1612692779.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 16419905,
+                            "lead_time": 1,
+                            "rank": 97.28,
+                            "rate": 0,
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": true,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 10736,
+                                "title": "فری سایز (34-32)"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 103268,
+                                "title": "پرستیژ کالا",
+                                "code": "A779S",
+                                "url": "https://www.digikala.com/seller/A779S/",
+                                "rating": {
+                                    "total_rate": 78,
+                                    "total_count": 3507,
+                                    "commitment": 99.6,
+                                    "no_return": 97.9,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 3.1,
+                                "registration_date": "3 سال و 3 ماه"
+                            },
+                            "digiclub": {
+                                "point": 8
+                            },
+                            "price": {
+                                "selling_price": 731500,
+                                "rrp_price": 770000,
+                                "order_limit": 1,
+                                "is_incredible": false,
+                                "is_promotion": true,
+                                "is_locked_for_digiplus": false,
+                                "marketable_stock": 1,
+                                "discount_percent": 5,
+                                "badge": {
+                                    "title": "فروش ویژه",
+                                    "color": "#E6123D"
+                                },
+                                "is_digiplus_promotion": false,
+                                "is_digiplus_early_access": false,
+                                "is_application_incredible": false,
+                                "is_lightening_deal": false
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده و دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                        "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                        "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                        "has_lead_time": true,
+                                        "type": "digikala"
+                                    },
+                                    {
+                                        "title": "ارسال فروشنده",
+                                        "description": "این کالا در انبار فروشنده موجود و آماده پردازش است و امکان ارسال مستقیم توسط فروشنده دارد.",
+                                        "has_lead_time": false,
+                                        "type": "seller"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "id": 797284,
+                        "title_fa": "ست لباس خواب و شورت زنانه مدل 509",
+                        "title_en": "509 Sleepwear And Brief For Women",
+                        "url": {
+                            "uri": "/product/dkp-797284/ست-لباس-خواب-و-شورت-زنانه-مدل-509"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان",
+                                "امکان ارسال فوری (شهر تهران)"
+                            ],
+                            "is_jet_eligible": true,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 793,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.2,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/3664131.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 4879665,
+                            "lead_time": 0,
+                            "rank": 97.8,
+                            "rate": 68.8,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 6,
+                                    "rate": 24
+                                },
+                                "satisfied": {
+                                    "rate_count": 10,
+                                    "rate": 40
+                                },
+                                "neutral": {
+                                    "rate_count": 2,
+                                    "rate": 8
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 3,
+                                    "rate": 12
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 4,
+                                    "rate": 16
+                                },
+                                "total_count": 25,
+                                "total_rate": 68.8
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": true,
+                                "in_digikala_warehouse": true
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان",
+                                    "امکان ارسال فوری (شهر تهران)"
+                                ],
+                                "is_jet_eligible": true,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 3602,
+                                "title": "L-XL"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 41957,
+                                "title": "مدیکال",
+                                "code": "6YM3D",
+                                "url": "https://www.digikala.com/seller/6YM3D/",
+                                "rating": {
+                                    "total_rate": 76,
+                                    "total_count": 22117,
+                                    "commitment": 100,
+                                    "no_return": 98.6,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 3.5,
+                                "registration_date": "3 سال و 9 ماه"
+                            },
+                            "digiclub": {
+                                "point": 5
+                            },
+                            "price": {
+                                "selling_price": 449000,
+                                "rrp_price": 449000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار دیجی‌کالا",
+                                "has_lead_time": true,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا",
+                                    "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": false,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 1521671,
+                        "title_fa": "ست لباس خواب و شورت زنانه مدل K8",
+                        "title_en": "",
+                        "url": {
+                            "uri": "/product/dkp-1521671/ست-لباس-خواب-و-شورت-زنانه-مدل-k8"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 928,
+                            "dimension2": 0,
+                            "dimension6": 0,
+                            "dimension7": "none",
+                            "dimension9": 3.7,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public-2.digikala.com/digikala-products/110645624.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 13576774,
+                            "lead_time": 1,
+                            "rank": 97.26,
+                            "rate": 75.6,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 4,
+                                    "rate": 44.44
+                                },
+                                "satisfied": {
+                                    "rate_count": 1,
+                                    "rate": 11.11
+                                },
+                                "neutral": {
+                                    "rate_count": 2,
+                                    "rate": 22.22
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 22.22
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 0,
+                                    "rate": 0
+                                },
+                                "total_count": 9,
+                                "total_rate": 75.6
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": true,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 3602,
+                                "title": "L-XL"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 41957,
+                                "title": "مدیکال",
+                                "code": "6YM3D",
+                                "url": "https://www.digikala.com/seller/6YM3D/",
+                                "rating": {
+                                    "total_rate": 76,
+                                    "total_count": 22123,
+                                    "commitment": 100,
+                                    "no_return": 98.6,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 3.5,
+                                "registration_date": "3 سال و 9 ماه"
+                            },
+                            "digiclub": {
+                                "point": 5
+                            },
+                            "price": {
+                                "selling_price": 425000,
+                                "rrp_price": 425000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": false,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 0
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    },
+                    {
+                        "id": 955144,
+                        "title_fa": "لباس خواب زنانه فیتن مدل 447B",
+                        "title_en": "Fitan 447B Lingerie For Women",
+                        "url": {
+                            "uri": "/product/dkp-955144/لباس-خواب-زنانه-فیتن-مدل-447b"
+                        },
+                        "status": "marketable",
+                        "has_quick_view": false,
+                        "digiplus": {
+                            "services": [
+                                "ارسال رایگان"
+                            ],
+                            "is_jet_eligible": false,
+                            "cash_back": 0,
+                            "is_general_location_jet_eligible": false
+                        },
+                        "data_layer": {
+                            "brand": "متفرقه",
+                            "category": "[RW,لباس راحتی و خواب زنانه]",
+                            "metric6": 381,
+                            "dimension2": 22,
+                            "dimension6": 0,
+                            "dimension7": "special-offer",
+                            "dimension9": 3.3,
+                            "dimension11": 0,
+                            "dimension20": "marketable"
+                        },
+                        "images": {
+                            "main": {
+                                "url": [
+                                    "https://dkstatics-public.digikala.com/digikala-products/4498620.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                                ]
+                            }
+                        },
+                        "default_variant": {
+                            "id": 7125687,
+                            "lead_time": 1,
+                            "rank": 97.26,
+                            "rate": 76.4,
+                            "statistics": {
+                                "totally_satisfied": {
+                                    "rate_count": 27,
+                                    "rate": 29.03
+                                },
+                                "satisfied": {
+                                    "rate_count": 36,
+                                    "rate": 38.71
+                                },
+                                "neutral": {
+                                    "rate_count": 18,
+                                    "rate": 19.35
+                                },
+                                "dissatisfied": {
+                                    "rate_count": 10,
+                                    "rate": 10.75
+                                },
+                                "totally_dissatisfied": {
+                                    "rate_count": 2,
+                                    "rate": 2.15
+                                },
+                                "total_count": 93,
+                                "total_rate": 76.4
+                            },
+                            "status": "marketable",
+                            "properties": {
+                                "is_fast_shipping": false,
+                                "is_ship_by_seller": false,
+                                "is_multi_warehouse": false,
+                                "has_similar_variants": false,
+                                "in_digikala_warehouse": false
+                            },
+                            "digiplus": {
+                                "services": [
+                                    "ارسال رایگان"
+                                ],
+                                "is_jet_eligible": false,
+                                "cash_back": 0,
+                                "is_general_location_jet_eligible": false
+                            },
+                            "size": {
+                                "id": 3320,
+                                "title": "فری سایز"
+                            },
+                            "warranty": {
+                                "id": 272,
+                                "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                                "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                            },
+                            "seller": {
+                                "id": 208082,
+                                "title": "مانلي",
+                                "code": "ASMJE",
+                                "url": "https://www.digikala.com/seller/ASMJE/",
+                                "rating": {
+                                    "total_rate": 74,
+                                    "total_count": 6773,
+                                    "commitment": 100,
+                                    "no_return": 99.6,
+                                    "on_time_shipping": 100
+                                },
+                                "properties": {
+                                    "is_trusted": false,
+                                    "is_official": false,
+                                    "is_roosta": false,
+                                    "is_new": false
+                                },
+                                "stars": 4.7,
+                                "registration_date": "2 سال و 6 ماه"
+                            },
+                            "digiclub": {
+                                "point": 7
+                            },
+                            "price": {
+                                "selling_price": 699000,
+                                "rrp_price": 899000,
+                                "order_limit": 2,
+                                "is_incredible": false,
+                                "is_promotion": true,
+                                "is_locked_for_digiplus": false,
+                                "discount_percent": 22,
+                                "badge": {
+                                    "title": "فروش ویژه",
+                                    "color": "#E6123D"
+                                },
+                                "is_digiplus_promotion": false,
+                                "is_digiplus_early_access": false,
+                                "is_application_incredible": false,
+                                "is_lightening_deal": false
+                            },
+                            "shipment_methods": {
+                                "description": "موجود در انبار فروشنده",
+                                "has_lead_time": false,
+                                "providers": [{
+                                    "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                    "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                    "has_lead_time": true,
+                                    "type": "digikala"
+                                }]
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "data_layer": {
+            "event": "eec.productDetail",
+            "ecommerce": {
+                "detail": {
+                    "actionField": {
+                        "list": "category-شلوار و شلوارک راحتی زنانه"
+                    },
+                    "products": [{
+                        "brand": "متفرقه",
+                        "category": "[RW,لباس راحتی و خواب زنانه]",
+                        "metric6": 47,
+                        "dimension2": 45,
+                        "dimension6": 0,
+                        "dimension7": "incredible",
+                        "dimension9": 4,
+                        "dimension11": 0,
+                        "dimension20": "marketable",
+                        "name": "شلوارک زنانه مدل 1112137032",
+                        "id": 4073675,
+                        "price": 1347500,
+                        "metric8": 1,
+                        "dimension3": "marketplace",
+                        "dimension10": 0,
+                        "dimension15": 1,
+                        "metric15": 0,
+                        "metric11": 36,
+                        "metric12": 20
+                    }]
+                }
+            }
+        },
+        "seo": {
+            "title": "مشخصات، قیمت و خرید شلوارک زنانه مدل 1112137032 | دیجی‌کالا",
+            "description": "خرید اینترنتی شلوارک زنانه مدل 1112137032 و قیمت انواع شلوار و شلوارک راحتی زنانه متفرقه از فروشگاه آنلاین دیجی‌کالا. جدیدترین مدل‌های شلوار و شلوارک راحتی زنانه متفرقه با بهترین قیمت در دیجی‌کالا",
+            "twitter_card": {
+                "title": "شلوارک زنانه مدل 1112137032",
+                "image": "https://dkstatics-public.digikala.com/digikala-products/04c65512e2fb3e76d3189b7739e861b05ac85040_1608811812.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+                "price": 0,
+                "description": "خرید اینترنتی شلوارک زنانه مدل 1112137032 و قیمت انواع شلوار و شلوارک راحتی زنانه متفرقه از فروشگاه آنلاین دیجی‌کالا. جدیدترین مدل‌های شلوار و شلوارک راحتی زنانه متفرقه با بهترین قیمت در دیجی‌کالا"
+            },
+            "open_graph": {
+                "title": "شلوارک زنانه مدل 1112137032",
+                "url": "https://www.digikala.com/product/dkp-4073675/شلوارک-زنانه-مدل-1112137032",
+                "image": "https://dkstatics-public.digikala.com/digikala-products/04c65512e2fb3e76d3189b7739e861b05ac85040_1608811812.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+                "availability": "in stock",
+                "type": "product",
+                "site": "دیجی‌کالا",
+                "price": 0
+            },
+            "header": {
+                "title": "شلوارک زنانه مدل 1112137032",
+                "description": "خرید اینترنتی شلوارک زنانه مدل 1112137032 و قیمت انواع شلوار و شلوارک راحتی زنانه متفرقه از فروشگاه آنلاین دیجی‌کالا. جدیدترین مدل‌های شلوار و شلوارک راحتی زنانه متفرقه با بهترین قیمت در دیجی‌کالا",
+                "canonical_url": "https://www.digikala.com/product/dkp-4073675/%D8%B4%D9%84%D9%88%D8%A7%D8%B1%DA%A9-%D8%B2%D9%86%D8%A7%D9%86%D9%87-%D9%85%D8%AF%D9%84-1112137032"
+            },
+            "markup_schema": [{
+                    "@context": "https://www.schema.org",
+                    "@type": "Product",
+                    "name": "شلوارک زنانه مدل 1112137032",
+                    "alternateName": "",
+                    "image": [
+                        "https://dkstatics-public.digikala.com/digikala-products/5bc70c40ace9180f70186e8d2209d3bdc3915654_1608811846.jpg?x-oss-process=image/resize,h_1600/quality,q_80",
+                        "https://dkstatics-public.digikala.com/digikala-products/b8194a46ccf73819c83fdc71950d3c1b7cbc784b_1608811900.jpg?x-oss-process=image/resize,h_1600/quality,q_80",
+                        "https://dkstatics-public.digikala.com/digikala-products/7d8ceb57e1ca8411532cea5c131919789926cefe_1608811910.jpg?x-oss-process=image/resize,h_1600/quality,q_80"
+                    ],
+                    "description": "خرید اینترنتی شلوارک زنانه مدل 1112137032 و قیمت انواع شلوار و شلوارک راحتی زنانه متفرقه از فروشگاه آنلاین دیجی‌کالا. جدیدترین مدل‌های شلوار و شلوارک راحتی زنانه متفرقه با بهترین قیمت در دیجی‌کالا",
+                    "mpn": 4073675,
+                    "sku": 4073675,
+                    "category": "https://www.digikala.com/search/category-women-homewear-bottom/",
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "متفرقه",
+                        "url": "https://www.digikala.com/brand/miscellaneous/",
+                        "@id": "https://www.digikala.com/brand/miscellaneous/#brand"
+                    },
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": 4,
+                        "reviewCount": 47
+                    },
+                    "offers": {
+                        "@type": "Offer",
+                        "priceCurrency": "IRR",
+                        "price": 1347500,
+                        "itemCondition": "https://schema.org/NewCondition",
+                        "availability": "https://schema.org/InStock"
+                    },
+                    "review": {
+                        "@type": "Review",
+                        "author": "مریم اصفهانی",
+                        "datePublished": "2021-05-19",
+                        "reviewBody": "شلوارک لخت، کشی و فرم آن کاملا جذب است. مواد ب کار رفته بیشتر نخی است. رنگ و‌لعاب مثل عکسش هست. برای من که سایزم ۳۶-۳۸ هست کامل جذبه و با اینکه فری سایزه فک کنم برای سایز ۴۰ کمرش یکم تنگ و ناراحت باشه. البته داخل شلوارک زده سایز لارج!  عکس ارسالی هم بعد از یکبار شستشو با مایع لباس و اب ۳۰درجه است.",
+                        "name": "شلوارک جذب",
+                        "reviewRating": {
+                            "@type": "Rating",
+                            "bestRating": 5,
+                            "ratingValue": 3.25,
+                            "worstRating": 0
+                        }
+                    }
+                },
+                [{
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [{
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "فروشگاه اینترنتی دیجی‌کالا",
+                                "item": {
+                                    "@type": "Corporation",
+                                    "@id": "https://www.digikala.com/#corporation"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "مد و پوشاک",
+                                "item": "https://www.digikala.com/main/apparel/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 3,
+                                "name": "زنانه",
+                                "item": "https://www.digikala.com/search/category-womens-apparel/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 4,
+                                "name": "لباس زنانه",
+                                "item": "https://www.digikala.com/search/category-women-clothing/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 5,
+                                "name": "لباس خواب و راحتی زنانه",
+                                "item": "https://www.digikala.com/search/category-women-homewear/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 6,
+                                "name": "شلوار و شلوارک راحتی زنانه",
+                                "item": "https://www.digikala.com/search/category-women-homewear-bottom/"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 7,
+                                "name": "شلوارک زنانه مدل 1112137032"
+                            }
+                        ]
+                    },
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [{
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "متفرقه",
+                                "item": {
+                                    "@type": "Brand",
+                                    "@id": "https://www.digikala.com/brand/miscellaneous/#brand"
+                                }
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": "شلوارک زنانه مدل 1112137032"
+                            }
+                        ]
+                    }
+                ]
+            ]
+        },
+        "intrack": {
+            "eventName": "product_detail_pageview",
+            "eventData": {
+                "currency": "IRR",
+                "deviceType": "desktop",
+                "name": "شلوارک زنانه مدل 1112137032",
+                "productId": 4073675,
+                "productImageUrl": [
+                    "https://dkstatics-public.digikala.com/digikala-products/04c65512e2fb3e76d3189b7739e861b05ac85040_1608811812.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+                ],
+                "quantity": 4073675,
+                "leafCategory": "",
+                "unitPrice": 1347500,
+                "url": "/product/dkp-4073675/شلوارک-زنانه-مدل-1112137032",
+                "categoryLevel1": "زنانه",
+                "categoryLevel2": "لباس زنانه",
+                "categoryLevel3": "لباس خواب و راحتی زنانه",
+                "categoryLevel4": "شلوار و شلوارک راحتی زنانه",
+                "categoryLevel5": ""
+            }
+        }
+    }
+}
