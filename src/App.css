@@ -1,0 +1,71 @@
+.loginbtn {
+    font-size: 12px;
+    font-size: .857rem;
+    line-height: 2;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid #e0e0e2;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    white-space: nowrap;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    cursor: pointer;
+    color: #616161;
+    width: 160px;
+    text-decoration: none;
+}
+
+.loginbtn:hover {
+    color: #616161;
+    text-decoration: none;
+}
+
+.a-searchbar {
+    margin-top: -5px;
+    width: 60%;
+    height: 100%;
+    border: none;
+    font-weight: 300;
+    font-size: 12px;
+    font-size: .857rem;
+    line-height: 1.833;
+    z-index: 51;
+    border-radius: 8px;
+    background-color: #f0f0f1;
+    border: none;
+    padding: 14px 45px 14px 10px;
+    text-align: right;
+    background-image: url(../public/images/searchicon.png);
+    background-position: 98%;
+    background-repeat: no-repeat;
+}
+
+.a-searchbar:focus-visible {
+    outline: none;
+}
+
+.digikalalogo {
+    color: #fff;
+    height: 40px;
+    display: block;
+    text-align: right;
+    text-indent: -1000em;
+    background: url(../public/images/digikala-logo.png) no-repeat 50%;
+}
+
+.location {
+    background-color: white !important;
+    border: none !important;
+}
+
+.dropbtn {
+    background-color: white;
+    padding: 16px;
+    font-size: 12px;
+    border: none;
+}

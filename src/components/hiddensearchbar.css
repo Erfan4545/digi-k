@@ -1,0 +1,47 @@
+.b-searchbar {
+    margin-top: -5px;
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-weight: 300;
+    font-size: 12px;
+    font-size: .857rem;
+    line-height: 1.833;
+    z-index: 51;
+    position: relative;
+    border-radius: 8px;
+    border: none;
+    padding: 14px 45px 14px 10px;
+    text-align: right;
+    background-image: url(../../public/images/white_searchicon.png);
+    background-repeat: no-repeat;
+    background-position: 98%;
+    background-color: white;
+}
+
+.b-searchbar:focus-visible {
+    outline: none;
+}
+
+.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    padding-bottom: 10px;
+}
+
+.mostsearched {
+    border-radius: 30px !important;
+    border-color: rgb(219, 217, 217) !important;
+    background-color: white !important;
+    width: 100px;
+    height: 40px;
+}
+
+#hiddensearchbar {
+    position: absolute;
+    display: block;
+    top: 73px;
+    right: 16.75%;
+    z-index: 1000;
+    cursor: pointer;
+}

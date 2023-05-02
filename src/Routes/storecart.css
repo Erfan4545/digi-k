@@ -1,0 +1,13 @@
+.buy {
+    background: white;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    color: grey;
+    padding: 6px;
+}
+
+.buy:focus {
+    border-bottom: 5px solid red;
+    color: red;
+}
