@@ -25,7 +25,7 @@ class Main extends Component {
         cityname: "لطفا شهر خود را انتخاب کنید"
         ,
         showsearchbar: false ,
-        length: 0
+        length: 0 
     }
 
      
@@ -61,7 +61,6 @@ class Main extends Component {
     
 
     render() {
-
         return (
 
 
@@ -71,7 +70,7 @@ class Main extends Component {
                 <div style={{ marginTop: '15px' }} className='row'>
                     <div className='col-1 col-sm-1 col-md-1 col-lg-1 col-xl-1'>
                         <div className="row" style={{ height: '15px' }}> </div>
-                        <div className="d-flex flex-row-reverse bd-highlight"> <Link to={"/cart"}> <a className="digipaye" style={{ height: '20px' , marginRight: "20px" }} href="">  <FontAwesomeIcon style={{ color: 'rgb(185, 184, 184)' , position: "absolute" }} icon={faShoppingCart} size='lg' > </FontAwesomeIcon>  { this.props.show && <Badge style={{ borderRadius: "15px" , position: "fixed" , marginLeft: "15px" }} bg="danger"> { store.getState().length } </Badge> }</a> </Link> </div>
+                        <div className="d-flex flex-row-reverse bd-highlight"> <Link to={"/cart"}> <a className="digipaye" style={{ height: '20px' , marginRight: "20px" }} href="">  <FontAwesomeIcon style={{ color: 'rgb(185, 184, 184)' , position: "absolute" }} icon={faShoppingCart} size='lg' > </FontAwesomeIcon>  {  store.getState().length > 0  && <Badge style={{ borderRadius: "15px" , position: "fixed" , marginLeft: "15px" }} bg="danger"> { store.getState().length } </Badge> }</a> </Link> </div>
                         <div className="row" style={{ height: '15px' }}> </div>
                     </div>
                     <div className="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3"> <a className="loginbtn" style={{fontSize: "0.8vw" , maxWidth: "70%"}}>ورود به حساب کاربری <FontAwesomeIcon style={{ color: 'rgb(185, 184, 184)' }} icon={faUser} size='lg' > </FontAwesomeIcon></a></div>
